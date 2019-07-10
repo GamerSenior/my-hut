@@ -1,5 +1,4 @@
 +++
-draft = true
 
 +++
 Testando lançamento de Posts através do Forestry.
